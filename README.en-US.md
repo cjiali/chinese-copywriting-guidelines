@@ -7,8 +7,8 @@ Chinese copywriting guidelines for better written communication.
 Other languages:
 
 - [English](README.en-US.md)
-- [Chinese Traditional](README.md)
-- [Chinese Simplified](README.zh-CN.md)
+- [Chinese Simplified](README.md)
+- [Chinese Traditional](README.zh-TW.md)
 - [Chinese Simplified](https://github.com/mzlogin/chinese-copywriting-guidelines) (External Link)
 
 * * *
